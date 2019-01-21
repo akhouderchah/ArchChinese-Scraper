@@ -10,3 +10,5 @@ Scraped text is stored on the system clipboard for ease of use.
 The output of the scraper can be used in conjunction with a
 [script like this](https://gist.github.com/Khouderchah-Alex/ebfc75ddbac177d0aef189da19b18920)
 such that words are only added to a list when all of the characters are known.
+
+The extension can be found [here](https://chrome.google.com/webstore/detail/arch-chinese-scraper/llkdlmohpnemkfkakmcmfajeogfkkhdm/).
